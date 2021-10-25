@@ -1,0 +1,13 @@
+/home/felipe/Desktop/csharpcurso/poo/1-poo/bin/Debug/netcoreapp3.1/1-poo
+/home/felipe/Desktop/csharpcurso/poo/1-poo/bin/Debug/netcoreapp3.1/1-poo.deps.json
+/home/felipe/Desktop/csharpcurso/poo/1-poo/bin/Debug/netcoreapp3.1/1-poo.runtimeconfig.json
+/home/felipe/Desktop/csharpcurso/poo/1-poo/bin/Debug/netcoreapp3.1/1-poo.runtimeconfig.dev.json
+/home/felipe/Desktop/csharpcurso/poo/1-poo/bin/Debug/netcoreapp3.1/1-poo.dll
+/home/felipe/Desktop/csharpcurso/poo/1-poo/bin/Debug/netcoreapp3.1/1-poo.pdb
+/home/felipe/Desktop/csharpcurso/poo/1-poo/obj/Debug/netcoreapp3.1/1-poo.csprojAssemblyReference.cache
+/home/felipe/Desktop/csharpcurso/poo/1-poo/obj/Debug/netcoreapp3.1/1-poo.AssemblyInfoInputs.cache
+/home/felipe/Desktop/csharpcurso/poo/1-poo/obj/Debug/netcoreapp3.1/1-poo.AssemblyInfo.cs
+/home/felipe/Desktop/csharpcurso/poo/1-poo/obj/Debug/netcoreapp3.1/1-poo.csproj.CoreCompileInputs.cache
+/home/felipe/Desktop/csharpcurso/poo/1-poo/obj/Debug/netcoreapp3.1/1-poo.dll
+/home/felipe/Desktop/csharpcurso/poo/1-poo/obj/Debug/netcoreapp3.1/1-poo.pdb
+/home/felipe/Desktop/csharpcurso/poo/1-poo/obj/Debug/netcoreapp3.1/1-poo.genruntimeconfig.cache
